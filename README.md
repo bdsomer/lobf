@@ -24,7 +24,7 @@ console.log(lobf([
 
 `module.exports` is a function as follows:
 
-- `(points: [x, y][])` - calculate the line of best fit for the given points.
+- `function (points: [x, y][])` - calculate the line of best fit for the given points.
 	- `points: [x, y][]` - an array of arrays with element `0` as the `x` coordinate and element `1` as the `y` coordinate.
 	- **returns** - `{slope, intercept}`:
 		- `slope: Number` - the slope of the line, or the `m` in `y = mx + b`.
