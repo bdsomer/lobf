@@ -1,0 +1,31 @@
+{
+  "name": "lobf",
+  "version": "1.0.0",
+  "description": "Find the line of best fit given a set of points",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javacoolme/lobf.git"
+  },
+  "keywords": [
+    "line",
+    "data",
+    "of",
+    "best",
+    "fit",
+    "lobf",
+    "lbf",
+    "average",
+    "data",
+    "calculate"
+  ],
+  "author": "Bennett Somerville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javacoolme/lobf/issues"
+  },
+  "homepage": "https://github.com/javacoolme/lobf#readme"
+}
