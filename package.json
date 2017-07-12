@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/javacoolme/lobf#readme",
   "engines" : {
-		"node" : ">=6.0.0"
+    "node" : ">=6.0.0"
   }
 }
