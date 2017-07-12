@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/javacoolme/lobf/issues"
   },
-  "homepage": "https://github.com/javacoolme/lobf#readme"
+  "homepage": "https://github.com/javacoolme/lobf#readme",
+  "engines" : {
+		"node" : ">=6.0.0"
+	}
 }
