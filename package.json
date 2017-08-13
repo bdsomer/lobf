@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javacoolme/lobf.git"
+    "url": "git+https://github.com/bdsomer/lobf.git"
   },
   "keywords": [
     "line",
@@ -25,9 +25,9 @@
   "author": "Bennett Somerville",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javacoolme/lobf/issues"
+    "url": "https://github.com/bdsomer/lobf/issues"
   },
-  "homepage": "https://github.com/javacoolme/lobf#readme",
+  "homepage": "https://github.com/bdsomer/lobf#readme",
   "engines" : {
     "node" : ">=6.0.0"
   }
