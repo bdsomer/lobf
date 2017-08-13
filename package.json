@@ -1,6 +1,6 @@
 {
   "name": "lobf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Find the line of best fit given a set of points",
   "main": "index.js",
   "scripts": {
